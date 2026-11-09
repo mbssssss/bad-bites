@@ -1,0 +1,38 @@
+name: Scan for new bad reviews
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # every 30 minutes (GitHub may run it a few minutes late)
+  workflow_dispatch: # adds a "Run workflow" button on GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run scan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OUTSCRAPER_API_KEY: ${{ secrets.OUTSCRAPER_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MONTHLY_REVIEW_BUDGET: ${{ vars.MONTHLY_REVIEW_BUDGET }}
+      - name: Save the updated feed
+        run: |
+          git config user.name "bad-bites-bot"
+          git config user.email "bad-bites-bot@users.noreply.github.com"
+          git add docs/feed.json data/state.json
+          git diff --cached --quiet || (git commit -m "Update feed" && git push)

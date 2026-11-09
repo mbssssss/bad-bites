@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bad Bites UAE</title>
+<meta name="description" content="New negative reviews of restaurants that opened in Dubai and Abu Dhabi since mid-2025.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #faf7f2; --surface: #ffffff; --ink: #1d1b18; --muted: #6b655c; --line: #e6e0d6;
+    --accent: #b5361f; --accent-ink: #ffffff; --soft: #f6e9e4; --star: #d9a21b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #151412; --surface: #1e1c19; --ink: #f1ece4; --muted: #a39b8f; --line: #34302a;
+            --accent: #e0644a; --accent-ink: #151412; --soft: #2a1f1b; --star: #e8b93a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 Figtree, system-ui, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 48px 16px 80px; }
+  h1 { font: 400 clamp(2.25rem, 7vw, 3.25rem)/1.1 "Young Serif", Georgia, serif; margin: 0 0 8px; letter-spacing: -0.01em; }
+  .lede { color: var(--muted); margin: 0 0 24px; max-width: 52ch; }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 8px; }
+  .tabs { display: flex; gap: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+  .tabs button { font: inherit; font-weight: 500; border: 0; background: transparent; color: var(--muted);
+                 padding: 6px 14px; border-radius: 999px; cursor: pointer; transition: background .15s, color .15s; }
+  .tabs button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+  .telegram { margin-left: auto; font-weight: 600; text-decoration: none; color: var(--accent-ink); background: var(--accent);
+              padding: 8px 16px; border-radius: 999px; }
+  .telegram[hidden] { display: none; }
+  .meta { font-size: 0.8rem; color: var(--muted); margin: 0 0 24px; }
+  ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 16px; }
+  li { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px; }
+  li.fresh { border-color: var(--accent); }
+  .where { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; font-size: 0.8rem; color: var(--muted); }
+  .where strong { color: var(--ink); font-size: 1rem; font-weight: 600; }
+  .stars { color: var(--star); letter-spacing: 1px; }
+  h2 { font: 400 1.5rem/1.25 "Young Serif", Georgia, serif; margin: 10px 0 12px; }
+  blockquote { margin: 0; padding: 12px 16px; background: var(--soft); border-radius: 10px; white-space: pre-line; }
+  blockquote.clamped { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+  .foot { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 12px; font-size: 0.8rem; color: var(--muted); }
+  .foot a { color: var(--accent); }
+  .more { font: inherit; font-size: 0.8rem; background: none; border: 0; color: var(--accent); padding: 0; cursor: pointer; }
+  li.empty { color: var(--muted); padding: 32px 20px; text-align: center; }
+  footer { margin-top: 48px; font-size: 0.8rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Bad Bites UAE</h1>
+  <p class="lede">New negative Google reviews of restaurants that opened in Dubai and Abu Dhabi since July 2025, as they come in.</p>
+
+  <div class="bar">
+    <div class="tabs" role="group" aria-label="City">
+      <button type="button" data-city="" aria-pressed="true">All</button>
+      <button type="button" data-city="Dubai" aria-pressed="false">Dubai</button>
+      <button type="button" data-city="Abu Dhabi" aria-pressed="false">Abu Dhabi</button>
+    </div>
+    <a class="telegram" id="telegram" hidden target="_blank" rel="noopener">Get alerts on Telegram</a>
+  </div>
+  <p class="meta" id="meta" role="status">Loading…</p>
+  <ol id="feed"></ol>
+
+  <footer>Checked every 30 minutes. Reviews are quoted as written on Google.</footer>
+</main>
+
+<script>
+  // Set this to your channel's link, e.g. "https://t.me/badbitesuae", to show the alerts button.
+  const TELEGRAM_URL = "https://t.me/BadBites";
+
+  const $ = (id) => document.getElementById(id);
+  let items = [];
+  let city = "";
+  let lastSeen = "";
+  try { lastSeen = localStorage.getItem("lastSeen") || ""; } catch {}
+
+  if (TELEGRAM_URL) { $("telegram").href = TELEGRAM_URL; $("telegram").hidden = false; }
+
+  function ago(iso) {
+    const mins = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (mins < 1) return "just now";
+    if (mins < 60) return `${mins} min ago`;
+    const hours = Math.round(mins / 60);
+    if (hours < 24) return `${hours} h ago`;
+    const days = Math.round(hours / 24);
+    return days < 30 ? `${days} d ago` : new Date(iso).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
+  }
+
+  function el(tag, attrs = {}, text) {
+    const node = document.createElement(tag);
+    Object.assign(node, attrs);
+    if (text !== undefined) node.textContent = text;
+    return node;
+  }
+
+  function render() {
+    const list = $("feed");
+    list.replaceChildren();
+    const shown = items.filter((i) => !city || i.city === city);
+    if (!shown.length) {
+      list.append(el("li", { className: "empty" }, "No bad reviews yet. Good news for these restaurants."));
+      return;
+    }
+    for (const i of shown) {
+      const li = el("li", { className: lastSeen && i.foundAt > lastSeen ? "fresh" : "" });
+      const where = el("div", { className: "where" });
+      where.append(el("strong", {}, i.restaurant), el("span", {}, `${i.area}, ${i.city}`),
+        el("span", { className: "stars", ariaLabel: `${i.rating} out of 5 stars` }, "★".repeat(i.rating) + "☆".repeat(5 - i.rating)));
+      const quote = el("blockquote", { className: "clamped" }, i.text);
+      const foot = el("div", { className: "foot" });
+      foot.append(el("span", {}, `${i.author} · ${ago(i.postedAt)}`));
+      if (i.text.length > 320) {
+        const more = el("button", { className: "more", type: "button" }, "Read all");
+        more.onclick = () => { quote.classList.remove("clamped"); more.remove(); };
+        foot.append(more);
+      }
+      if (i.link) foot.append(el("a", { href: i.link, target: "_blank", rel: "noopener" }, "See on Google"));
+      li.append(where, el("h2", {}, i.headline), quote, foot);
+      list.append(li);
+    }
+  }
+
+  async function load() {
+    try {
+      const res = await fetch(`feed.json?t=${Date.now()}`);
+      const feed = await res.json();
+      items = feed.items || [];
+      $("meta").textContent = feed.paused || (feed.updatedAt ? `Last checked ${ago(feed.updatedAt)} · ${items.length} reviews` : "Waiting for the first check.");
+      render();
+      if (items[0]) try { localStorage.setItem("lastSeen", items[0].foundAt); } catch {}
+    } catch {
+      $("meta").textContent = "Couldn't load the feed. Try refreshing.";
+    }
+  }
+
+  document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => {
+    city = b.dataset.city;
+    document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+    render();
+  }));
+
+  load();
+  setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>
