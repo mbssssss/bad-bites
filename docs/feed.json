@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tKT1VXUmtNMWd0TUhJMmJ6RkRZek5MZGtSWFJFRRAB",
+      "restaurant": "Sienna",
+      "area": "Gate Village, DIFC",
+      "city": "Dubai",
+      "rating": 1,
+      "headline": "Diner hit with undisclosed add-on charge, then pressured to tip",
+      "topic": "price",
+      "text": "Nice atmosphere and friendly staff, but extremely disappointing experience. An expensive add-on was offered without clearly stating the price, only for me to discover the extra charge at the end. The add-on was even more expensive than the main course. Even high-end restaurants know better than to surprise customers with undisclosed charges. Being handed a tipping screen and pressured to tip on top of that was equally unclassy. Definitely not the experience you expect from a restaurant of this level. Wont be coming back.",
+      "author": "Saif alazzam",
+      "postedAt": "2026-11-09T17:00:57.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKT1VXUmtNMWd0TUhJMmJ6RkRZek5MZGtSWFJFRRAB!2m1!1s0x0:0xdc413ab6ecbac726!3m1!1s2@1:CAIQACodChtycF9oOkJOUWRkM1gtMHI2bzFDYzNLdkRXREE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-09T20:56:23.443Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVlVGWTNUa04zVjNSdFJsVk9VV3RNU25sSGVXYxAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner says waiter was the only highlight of the night",
+      "topic": "other",
+      "text": "The waiter Jude was the best thing in the night.",
+      "author": "Shamma",
+      "postedAt": "2026-11-09T16:43:05.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCVlVGWTNUa04zVjNSdFJsVk9VV3RNU25sSGVXYxAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOlBVUFY3TkN3V3RtRlVOUWtMSnlHeWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-09T20:56:23.443Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWVVFRTNZbVJzZFd0SU1qZHdVMEZVTlRSWlpuYxAB",
+      "restaurant": "Blu Pizzeria",
+      "area": "Saadiyat Island",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Reviewer calls restaurant below average, says people go only for hype",
+      "topic": "food",
+      "text": "مطعم عادي جدا واقل من عادي ناس تروح بس خقه",
+      "author": "Why?",
+      "postedAt": "2026-11-09T14:50:06.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGWVVFRTNZbVJzZFd0SU1qZHdVMEZVTlRSWlpuYxAB!2m1!1s0x0:0xe39b5a9b072ce1bb!3m1!1s2@1:CAIQACodChtycF9oOlFYUEE3YmRsdWtIMjdwU0FUNTRZZnc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-09T20:56:23.443Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT214RlRrdE5ORFpoVFdKYWNFZEdZMWRZTlUxdVNuYxAB",
       "restaurant": "NESTT",
       "area": "Al Quoz",
@@ -281,5 +323,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-09T10:24:14.286Z"
+  "updatedAt": "2026-11-09T20:56:23.443Z"
 }
