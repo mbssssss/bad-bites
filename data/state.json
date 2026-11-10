@@ -134,6 +134,76 @@
       "placeId": "ChIJ0cW-4K9nXj4Ro1r8pM3owPw",
       "matchedName": "EVA Modern Greek",
       "matchedAddress": ""
+    },
+    "Art of Dum": {
+      "placeId": "ChIJnU3uyuxnXj4RHdn3Pv5wJyo",
+      "matchedName": "Art of Dum - Reem Mall",
+      "matchedAddress": ""
+    },
+    "Zoomak": {
+      "placeId": "ChIJUf_Ncp5DXj4REM0Mncv-H4A",
+      "matchedName": "Zoomak Korean Bistro",
+      "matchedAddress": ""
+    },
+    "Distrikt Social": {
+      "placeId": "ChIJlwphwnlnXj4RhsnzKiCXl9s",
+      "matchedName": "Distrikt Social - All-day café & terrace",
+      "matchedAddress": ""
+    },
+    "Chaat Chaska": {
+      "placeId": "ChIJ0W6pANJpXj4Rb_c_WgvNedw",
+      "matchedName": "CHAAT CHASKA-MUSHRIF MALL",
+      "matchedAddress": ""
+    },
+    "Baba Roma": {
+      "placeId": "ChIJq_Tn-shFXj4Ry6yTLT6X7m8",
+      "matchedName": "BABA ROMA",
+      "matchedAddress": ""
+    },
+    "Bake Studio": {
+      "placeId": "ChIJ9cAZC1xpXj4RwRKGdm3xD6A",
+      "matchedName": "Bake Studio",
+      "matchedAddress": ""
+    },
+    "Graze Burger": {
+      "placeId": "ChIJM2ogj2RnXj4Rs-sOLYnhk1Y",
+      "matchedName": "Graze BRGR - Abu Dhabi",
+      "matchedAddress": ""
+    },
+    "Pizza Express": {
+      "placeId": "ChIJx86sfz5PXj4R7qN30MjkMPU",
+      "matchedName": "PizzaExpress Noya Plaza",
+      "matchedAddress": ""
+    },
+    "Kokoro": {
+      "placeId": "ChIJK333_kNlXj4R3xu7g3KXi-0",
+      "matchedName": "Kokoro Hand Roll Bar (Abu Dhabi - The Grove Mall)",
+      "matchedAddress": ""
+    },
+    "Brass Monkey": {
+      "placeId": "ChIJHS9wPPVnXj4Rdj3Gl5KuZ7I",
+      "matchedName": "Brass Monkey - Abu Dhabi",
+      "matchedAddress": ""
+    },
+    "Ibn AlBahr": {
+      "placeId": "ChIJM2k8KRFnXj4RghoLNz60vwo",
+      "matchedName": "Ibn Al Bahr - Al Reem Island",
+      "matchedAddress": ""
+    },
+    "Levant Oriental": {
+      "placeId": "ChIJxagaPrJnXj4RB5kr1EJB3aU",
+      "matchedName": "Levant Oriental Restaurant مطعم ليفانت أوريانتل",
+      "matchedAddress": ""
+    },
+    "Flave by Chef Wali": {
+      "placeId": "ChIJO0fEH0BDXj4RLmxYqnjW53Y",
+      "matchedName": "FLAVE Burger By Chef Wali - Eastern Mangroves Abu Dhabi",
+      "matchedAddress": ""
+    },
+    "Raju Omelet": {
+      "placeId": "ChIJJSkVrfdnXj4Rs14hImr_PCs",
+      "matchedName": "Raju Omlet Restaurant Abu Dhabi",
+      "matchedAddress": ""
     }
   },
   "seen": [
@@ -562,11 +632,15 @@
     "Ci9DQUlRQUNvZENodHljRjlvT2tsU2ExYzVWSEZCWVhCRFFsWXRMVzVNTFRoZk0yYxAB",
     "Ci9DQUlRQUNvZENodHljRjlvT2xodFl6VkhUMlk1WHpKS01uUnpSbmh1TUhnMlMzYxAB",
     "Ci9DQUlRQUNvZENodHljRjlvT20xRVVsRjFiVTh3VGprd2FIRXhRVjlTUzNndFJrRRAB",
-    "Ci9DQUlRQUNvZENodHljRjlvT2xSWldYTkxlSEpuT1RsRmJWVmtWR0U1WkZKQ1ZrRRAB"
+    "Ci9DQUlRQUNvZENodHljRjlvT2xSWldYTkxlSEpuT1RsRmJWVmtWR0U1WkZKQ1ZrRRAB",
+    "Ci9DQUlRQUNvZENodHljRjlvT2psVGFVdHRhRGhYTkVOV2FVcHJRV1UwUnpSWVJYYxAB",
+    "Ci9DQUlRQUNvZENodHljRjlvT2xoVlNtWnBRVFJzZG1Jd2R6VjVWMUY2ZUhkTGJrRRAB",
+    "Ci9DQUlRQUNvZENodHljRjlvT205V1ZGZHhVMXBDZVVkUmVrOXNTVkZVZFVkVk5HYxAB",
+    "Ci9DQUlRQUNvZENodHljRjlvT2kxS1ZGZE5iMlpWYmxORGR6QlFielZUZG1WelVGRRAB"
   ],
   "usage": {
     "month": "2026-11",
-    "reviews": 431
+    "reviews": 435
   },
-  "lastScan": "2026-11-10T03:14:40.404Z"
+  "lastScan": "2026-11-10T10:02:02.112Z"
 }
