@@ -12,7 +12,7 @@ const res = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendM
   body: JSON.stringify({
     chat_id: TELEGRAM_CHAT_ID,
     text:
-      "👋 Bad Bites UAE is live. New bad Google reviews of restaurants that opened in Dubai and Abu Dhabi " +
+      "👋 Bad Bites is live. New bad Google reviews of restaurants that opened in Abu Dhabi " +
       "since July 2025 will be posted here as they come in. Here's a recent one:",
   }),
 });

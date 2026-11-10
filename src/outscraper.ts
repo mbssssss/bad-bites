@@ -57,10 +57,34 @@ export function looksLikeMatch(restaurantName: string, placeName: string): boole
   const joined = allWords(placeName).join("");
   // Short names like "Yù & Mì" have no 3-letter words, so fall back to all of their words.
   const mine = words(restaurantName).length ? words(restaurantName) : allWords(restaurantName);
-  // Shared first four letters also count, for spelling variants like "Sienna" and "Siena".
+  // Words one letter apart also count, for spelling variants like "Sienna" and "Siena"
+  // (but not "Palais" and "Palace", which would match a hotel).
   return mine.some(
-    (w) => place.has(w) || joined.includes(w) || (w.length >= 4 && [...place].some((p) => p.slice(0, 4) === w.slice(0, 4))),
+    (w) => place.has(w) || joined.includes(w) || (w.length >= 4 && [...place].some((p) => oneEditApart(w, p))),
   );
+}
+
+/** True if a and b differ by at most one inserted, deleted or changed letter. */
+function oneEditApart(a: string, b: string): boolean {
+  if (Math.abs(a.length - b.length) > 1) return false;
+  let i = 0;
+  let j = 0;
+  let edits = 0;
+  while (i < a.length && j < b.length) {
+    if (a[i] === b[j]) {
+      i++;
+      j++;
+      continue;
+    }
+    if (++edits > 1) return false;
+    if (a.length > b.length) i++;
+    else if (b.length > a.length) j++;
+    else {
+      i++;
+      j++;
+    }
+  }
+  return edits + (a.length - i) + (b.length - j) <= 1;
 }
 
 /**

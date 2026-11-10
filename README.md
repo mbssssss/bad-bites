@@ -1,7 +1,7 @@
-# Bad Bites UAE
+# Bad Bites Abu Dhabi
 
-A news feed of new negative Google reviews for 75 restaurants that opened in Dubai and Abu Dhabi
-since July 2025. Every 30 minutes a scan:
+A news feed of new negative Google reviews for restaurants that opened in Abu Dhabi since
+July 2025. Every 30 minutes a scan:
 
 1. asks Outscraper for each restaurant's Google reviews posted since the last scan,
 2. keeps 1-2 star reviews (and, if an Anthropic key is set, has Claude pick out complaining 3-star reviews and write a news-style headline for each),

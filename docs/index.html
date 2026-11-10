@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Bad Bites UAE</title>
-<meta name="description" content="New negative reviews of restaurants that opened in Dubai and Abu Dhabi since mid-2025.">
+<title>Bad Bites Abu Dhabi</title>
+<meta name="description" content="New negative reviews of restaurants that opened in Abu Dhabi since mid-2025.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -22,11 +22,7 @@
   h1 { font: 400 clamp(2.25rem, 7vw, 3.25rem)/1.1 "Young Serif", Georgia, serif; margin: 0 0 8px; letter-spacing: -0.01em; }
   .lede { color: var(--muted); margin: 0 0 24px; max-width: 52ch; }
   .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 8px; }
-  .tabs { display: flex; gap: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
-  .tabs button { font: inherit; font-weight: 500; border: 0; background: transparent; color: var(--muted);
-                 padding: 6px 14px; border-radius: 999px; cursor: pointer; transition: background .15s, color .15s; }
-  .tabs button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
-  .telegram { margin-left: auto; font-weight: 600; text-decoration: none; color: var(--accent-ink); background: var(--accent);
+  .telegram { font-weight: 600; text-decoration: none; color: var(--accent-ink); background: var(--accent);
               padding: 8px 16px; border-radius: 999px; }
   .telegram[hidden] { display: none; }
   .meta { font-size: 0.8rem; color: var(--muted); margin: 0 0 24px; }
@@ -48,15 +44,10 @@
 </head>
 <body>
 <main>
-  <h1>Bad Bites UAE</h1>
-  <p class="lede">New negative Google reviews of restaurants that opened in Dubai and Abu Dhabi since July 2025, as they come in.</p>
+  <h1>Bad Bites Abu Dhabi</h1>
+  <p class="lede">New negative Google reviews of restaurants that opened in Abu Dhabi since July 2025, as they come in.</p>
 
   <div class="bar">
-    <div class="tabs" role="group" aria-label="City">
-      <button type="button" data-city="" aria-pressed="true">All</button>
-      <button type="button" data-city="Dubai" aria-pressed="false">Dubai</button>
-      <button type="button" data-city="Abu Dhabi" aria-pressed="false">Abu Dhabi</button>
-    </div>
     <a class="telegram" id="telegram" hidden target="_blank" rel="noopener">Get alerts on Telegram</a>
   </div>
   <p class="meta" id="meta" role="status">Loading…</p>
@@ -71,7 +62,6 @@
 
   const $ = (id) => document.getElementById(id);
   let items = [];
-  let city = "";
   let lastSeen = "";
   try { lastSeen = localStorage.getItem("lastSeen") || ""; } catch {}
 
@@ -97,7 +87,7 @@
   function render() {
     const list = $("feed");
     list.replaceChildren();
-    const shown = items.filter((i) => !city || i.city === city);
+    const shown = items.filter((i) => i.city === "Abu Dhabi");
     if (!shown.length) {
       list.append(el("li", { className: "empty" }, "No bad reviews yet. Good news for these restaurants."));
       return;
@@ -105,7 +95,7 @@
     for (const i of shown) {
       const li = el("li", { className: lastSeen && i.foundAt > lastSeen ? "fresh" : "" });
       const where = el("div", { className: "where" });
-      where.append(el("strong", {}, i.restaurant), el("span", {}, `${i.area}, ${i.city}`),
+      where.append(el("strong", {}, i.restaurant), el("span", {}, i.area),
         el("span", { className: "stars", ariaLabel: `${i.rating} out of 5 stars` }, "★".repeat(i.rating) + "☆".repeat(5 - i.rating)));
       const quote = el("blockquote", { className: "clamped" }, i.text);
       const foot = el("div", { className: "foot" });
@@ -133,12 +123,6 @@
       $("meta").textContent = "Couldn't load the feed. Try refreshing.";
     }
   }
-
-  document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => {
-    city = b.dataset.city;
-    document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
-    render();
-  }));
 
   load();
   setInterval(load, 5 * 60 * 1000);
