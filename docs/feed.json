@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21OdFQwZDZPRU5MWlZVNGVIWkRVelkzVGpCbGJXYxAB",
+      "restaurant": "Isabel Mayfair",
+      "area": "The Galleria, Al Maryah Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "One-star rating for Isabel Mayfair despite praise in review text",
+      "topic": "other",
+      "text": "I have been to many restaurants in abu Dhabi but Isabel Mayfair is one of my favorite restaurants  the atmosphere is phenomenal the ambiance was really Beautiful we really loved it ND will come back again thank you Isabel team",
+      "author": "Prakash Pradhan",
+      "postedAt": "2026-11-11T11:47:46.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OdFQwZDZPRU5MWlZVNGVIWkRVelkzVGpCbGJXYxAB!2m1!1s0x0:0xbdd54c493df75c7d!3m1!1s2@1:CAIQACodChtycF9oOmNtT0d6OENLZVU4eHZDUzY3TjBlbWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-11T14:55:19.065Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2xoak1ub3paakJPUTFOemJGWmFaVzR0U0VGT01tYxAB",
       "restaurant": "Blu Pizzeria",
       "area": "Saadiyat Island",
@@ -113,5 +127,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-11T06:55:36.795Z"
+  "updatedAt": "2026-11-11T14:55:19.065Z"
 }
