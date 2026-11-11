@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pFeGJ6aFNhbk5vVlhkbldTMVhVV3N0ZEhCVE5WRRAB",
+      "restaurant": "Flave by Chef Wali",
+      "area": "Eastern Mangroves, Al Kheeran",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Customer complains of delay at Flave by Chef Wali",
+      "topic": "wait",
+      "text": "تاخير",
+      "author": "A S",
+      "postedAt": "2026-11-11T17:38:08.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pFeGJ6aFNhbk5vVlhkbldTMVhVV3N0ZEhCVE5WRRAB!2m1!1s0x0:0x76e7d678aa586c2e!3m1!1s2@1:CAIQACodChtycF9oOjExbzhSanNoVXdnWS1XUWstdHBTNVE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-11T21:44:27.170Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNlFtVTFZalp5WkcwMk5VeGhRWFJoV2xCek0xRRAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Diner calls service at Rowley's very poor",
+      "topic": "service",
+      "text": "الخدمه تعبانه جداً",
+      "author": "Husam Alhemyari",
+      "postedAt": "2026-11-11T17:23:06.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaNlFtVTFZalp5WkcwMk5VeGhRWFJoV2xCek0xRRAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOlZ6QmU1YjZyZG02NUxhQXRhWlBzM1E%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-11T21:44:27.170Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2taelRYRmlSMUZCZDJVeGJHNWZaVzl3ZDNkNVRHYxAB",
+      "restaurant": "EVA",
+      "area": "Mamsha Al Saadiyat",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "EVA had no table after booking shrank from four to two",
+      "topic": "service",
+      "text": "Terrible experience. Booked table for 4, but when we said we are 2 now, didn’t have any tables and wanted us to accept any table and were okay with us leaving since they are full.",
+      "author": "Mohamed Al Hashemi",
+      "postedAt": "2026-11-11T16:30:13.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taelRYRmlSMUZCZDJVeGJHNWZaVzl3ZDNkNVRHYxAB!2m1!1s0x0:0xfcc0e8cda4fc5aa3!3m1!1s2@1:CAIQACodChtycF9oOkZzTXFiR1FBd2UxbG5fZW9wd3d5TGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-11T21:44:27.170Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT21OdFQwZDZPRU5MWlZVNGVIWkRVelkzVGpCbGJXYxAB",
       "restaurant": "Isabel Mayfair",
       "area": "The Galleria, Al Maryah Island",
@@ -127,5 +169,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-11T14:55:19.065Z"
+  "updatedAt": "2026-11-11T21:44:27.170Z"
 }
