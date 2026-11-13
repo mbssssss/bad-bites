@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSlNqWkVVSFZQZEUxTE5scElhR3RPZDA5b09FRRAB",
+      "restaurant": "Blu Pizzeria",
+      "area": "Saadiyat Island",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Diner waited an hour as hostess's acquaintances skipped the queue",
+      "topic": "service",
+      "text": "The food was delicious, but unfortunately, the overall experience was disappointing.\n\nWe waited for an hour to be seated, while we noticed several customers arriving after us being allowed in without waiting simply because they knew the hostess. This was extremely unfair and unprofessional.\n\nWhen we were finally seated, our table was surrounded by men. We requested to move to the family section, but our request was refused despite several empty tables being available. Surprisingly, they only agreed to change our table after I mentioned that I would be sharing my experience on Google Reviews. It shouldn’t take the mention of a negative review for a customer’s reasonable request to be accommodated.\n\nWe ordered the Short Ribs and Pepperoni pizzas, and both were absolutely delicious.\n\nIt’s a shame that such excellent food is overshadowed by poor customer service and preferential treatment. All customers deserve the same level of respect and service, regardless of whether they know the staff or not.",
+      "author": "Sara",
+      "postedAt": "2026-11-13T20:14:21.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkSlNqWkVVSFZQZEUxTE5scElhR3RPZDA5b09FRRAB!2m1!1s0x0:0xe39b5a9b072ce1bb!3m1!1s2@1:CAIQACodChtycF9oOldJSjZEUHVPdE1LNlpIaGtOd09oOEE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-13T20:45:15.594Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25GVldHNU9kRXhwVldSa00yVTFNMGxYYkRSMU0wRRAB",
       "restaurant": "Rowley's",
       "area": "Yas Bay Waterfront, Yas Island",
@@ -211,5 +225,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-13T13:54:52.618Z"
+  "updatedAt": "2026-11-13T20:45:15.594Z"
 }
