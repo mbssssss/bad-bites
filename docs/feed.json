@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25GVldHNU9kRXhwVldSa00yVTFNMGxYYkRSMU0wRRAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner says food arrived late and cold, sauces missing",
+      "topic": "food",
+      "text": "Very disappointing experience. Our food took far too long to arrive, and when it finally came, it was cold. On top of that, several sauces were missing from our order. The drinks were also brought out one by one instead of being served together, which made the whole experience even more frustrating.\n\nUnfortunately, the service and food quality were nowhere near what we expected. A restaurant should be able to deliver food on time, serve it at the proper temperature, and make sure the order is complete. Overall, a very disappointing experience, and I hope management takes this feedback seriously.",
+      "author": "Ahmed Omar",
+      "postedAt": "2026-11-13T12:44:37.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GVldHNU9kRXhwVldSa00yVTFNMGxYYkRSMU0wRRAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOnFVWG5OdExpVWRkM2U1M0lXbDR1M0E%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-13T13:54:52.618Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeFl6RkdhMWRsTTBWblRXVndZVE53ZVZkWmJGRRAB",
       "restaurant": "Levant Oriental",
       "area": "Abu Dhabi",
@@ -197,5 +211,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-13T05:49:46.265Z"
+  "updatedAt": "2026-11-13T13:54:52.618Z"
 }
