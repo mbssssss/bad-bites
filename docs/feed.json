@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tJemRtNU1ZV0ZWTTJoRFFYTnpNRlkxYzFJeFUzYxAB",
+      "restaurant": "EVA",
+      "area": "Mamsha Al Saadiyat",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Caller says phone staff were unwelcoming and unhelpful",
+      "topic": "service",
+      "text": "Extremely disappointing customer service!\n\nThe lady who answered the phone clearly needs training in customer communication and service etiquette. Her attitude was far from welcoming and gave the impression that she was more interested in protecting the restaurant manager’s schedule than finding a reasonable solution for the customer.\n\nUnfortunately, this restaurant failed at the very first point of contact. A serious improvement in customer service training is needed.",
+      "author": "Sujith Vijayamohan",
+      "postedAt": "2026-11-14T11:52:06.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tJemRtNU1ZV0ZWTTJoRFFYTnpNRlkxYzFJeFUzYxAB!2m1!1s0x0:0xfcc0e8cda4fc5aa3!3m1!1s2@1:CAIQACodChtycF9oOkIzdm5MYWFVM2hDQXNzMFY1c1IxU3c%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-14T14:45:41.715Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21OUVRVWk1VVXBMYXpFdGJ6QlRabUpIZHpCUFMwRRAB",
+      "restaurant": "Raju Omelet",
+      "area": "WTC Mall",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Regular says server asked them to leave despite empty tables",
+      "topic": "service",
+      "text": "Great food, and I’ve been a regular since their Dubai days, now visiting for the third time since the Abu Dhabi opening.\n\nUnfortunately, the hospitality was disappointing. Barely minutes after paying our bill, a newly hired server asked us to leave because a group of 10 was waiting, despite multiple empty tables being available. Offering us another table would have been a simple, courteous alternative.\n\nWe didn’t want to argue and simply left, but the experience felt unnecessarily rude and unwelcoming. I hope management takes note.",
+      "author": "Divya Saini",
+      "postedAt": "2026-11-14T10:11:26.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OUVRVWk1VVXBMYXpFdGJ6QlRabUpIZHpCUFMwRRAB!2m1!1s0x0:0x2b3cff6a22215eb3!3m1!1s2@1:CAIQACodChtycF9oOmNQTUZMUUpLazEtbzBTZmJHdzBPS0E%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-14T14:45:41.715Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSlNqWkVVSFZQZEUxTE5scElhR3RPZDA5b09FRRAB",
       "restaurant": "Blu Pizzeria",
       "area": "Saadiyat Island",
@@ -225,5 +253,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-14T07:49:58.227Z"
+  "updatedAt": "2026-11-14T14:45:41.715Z"
 }
