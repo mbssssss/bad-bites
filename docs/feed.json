@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25aVmExSjRUa1J5YlRKZlFXTk9URWxRUW1aekxXYxAB",
+      "restaurant": "Solenn",
+      "area": "The Arcades, Al Mushrif",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner reports lukewarm, bland food and small portions for price",
+      "topic": "food",
+      "text": "We were really looking forward to this meal, but it fell short. The food arrived lukewarm, the portions were small for the price, and the flavors were bland and unbalanced. My main dish was overcooked and clearly not fresh. The service was slow and nobody checked on us. For what we paid, I expected much better. I won't be coming back\nI can make it shorter, harsher, or more polite, or write it in French. Tell me what went wrong (cold food, long wait, hygiene, rude staff) and I'll make it specific to your visit, which makes a review more credible.",
+      "author": "H officiel",
+      "postedAt": "2026-11-15T12:28:53.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aVmExSjRUa1J5YlRKZlFXTk9URWxRUW1aekxXYxAB!2m1!1s0x0:0x22303de00de1bcd3!3m1!1s2@1:CAIQACodChtycF9oOnZVa1J4TkRybTJfQWNOTElQQmZzLWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-15T12:29:47.299Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21KU2NXZEpNV2wxZGxOd1lVWmhhRmg2TmpoeE1HYxAB",
+      "restaurant": "Solenn",
+      "area": "The Arcades, Al Mushrif",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says poor service means they won't return",
+      "topic": "service",
+      "text": "the service will be the reason i am not coming again.",
+      "author": "Sarah Alsuwaidi",
+      "postedAt": "2026-11-15T08:51:13.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KU2NXZEpNV2wxZGxOd1lVWmhhRmg2TmpoeE1HYxAB!2m1!1s0x0:0x22303de00de1bcd3!3m1!1s2@1:CAIQACodChtycF9oOmJScWdJMWl1dlNwYUZhaFh6NjhxMGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-15T12:29:47.299Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMWNHMDNVMVJXYjBONE4zUm1XR1p0UmpaSGNXYxAB",
+      "restaurant": "Baba Roma",
+      "area": "Ansam, Saadiyat Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner served cold steak after 30-minute wait",
+      "topic": "food",
+      "text": "Terrible experience, cold steak and 30 min waiting. Not recommend this branch, processes not optimized at all.",
+      "author": "Vladlen",
+      "postedAt": "2026-11-15T08:36:07.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xZMWNHMDNVMVJXYjBONE4zUm1XR1p0UmpaSGNXYxAB!2m1!1s0x0:0x6fee973e2d93accb!3m1!1s2@1:CAIQACodChtycF9oOlY1cG03U1RWb0N4N3RmWGZtRjZHcWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-15T12:29:47.299Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2paMU1XMVNVWFpvUVcxMFowOUJlSGx3UzBwRk9HYxAB",
+      "restaurant": "Solenn",
+      "area": "The Arcades, Al Mushrif",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Family faces long waits and incomplete order despite empty tables",
+      "topic": "service",
+      "text": "A very disappointing dining experience. Despite several empty tables, we waited an unreasonable amount of time to be seated. Once seated, it took another 20 minutes to place our order and 25 minutes for the food to arrive, only for it to be incomplete.\n\nDespite approaching three staff members and escalating the issue to the supervisor, no action was taken. What made this particularly frustrating was having hungry children with us, yet the staff showed no urgency or consideration.\n\nThe restaurant was not particularly busy, making this lack of professionalism and accountability even more unacceptable. Management should seriously review its service standards and ensure that customer concerns are addressed promptly and respectfully.",
+      "author": "Amna SS",
+      "postedAt": "2026-11-15T07:26:44.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2paMU1XMVNVWFpvUVcxMFowOUJlSGx3UzBwRk9HYxAB!2m1!1s0x0:0x22303de00de1bcd3!3m1!1s2@1:CAIQACodChtycF9oOjZ1MW1SUXZoQW10Z09BeHlwS0pFOGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-15T12:29:47.299Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM2MySjJXR2xCYzFGVWRIUXRabmxVTkVkdFprRRAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner leaves steak and spicy fries uneaten after 45-minute wait",
+      "topic": "food",
+      "text": "وايد زعلت. لا حبيت الستيك ولا بطاط السبايسي  والله حتى كلت لقمتين لحم وخليته ولا بطاط نفس شي ومقارنه بالطعم والسعر ما يستاهل  انا ماره وايد اماكن تخصصهم ستيك ومجربه واعرف نكهات وطعم بس ع حشرة هالمكان والناس قلت ان بيكون احلى من اي مطعم ستيك و شي اللي حبيت وكلته سلطة الطماطم اللي اتي مع اكل  غير جي رديت بيت ادور مطعم اكل منه. بعد انتظار 45 دقيقه  مبلغ اللي دفعته كبير والله لو كلته وحلو م عندي مشكله",
+      "author": "yaman alkurdi",
+      "postedAt": "2026-11-15T06:51:28.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xBM2MySjJXR2xCYzFGVWRIUXRabmxVTkVkdFprRRAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOlA3c2J2WGlBc1FUdHQtZnlUNEdtZkE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-15T12:29:47.299Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2tkU0xXNVhjRWxDUTNwblNXNUhUVlZDVDB0RVYyYxAB",
       "restaurant": "Blu Pizzeria",
       "area": "Saadiyat Island",
@@ -309,5 +379,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-15T04:47:09.128Z"
+  "updatedAt": "2026-11-15T12:29:47.299Z"
 }
