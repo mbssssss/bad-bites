@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25SYWFGVktlR1ZhVVhnME5VeEJOVXMzUkU5WlgwRRAB",
+      "restaurant": "Rascal's Deli",
+      "area": "Al Qana",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Customer says katsu chicken was not well cooked",
+      "topic": "food",
+      "text": "I ordered katsu chicken and it was not well cooked",
+      "author": "Maitha Almehairi",
+      "postedAt": "2026-11-16T14:30:46.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SYWFGVktlR1ZhVVhnME5VeEJOVXMzUkU5WlgwRRAB!2m1!1s0x0:0x3b26e66b623f90f9!3m1!1s2@1:CAIQACodChtycF9oOnRaaFVKeGVaUXg0NUxBNUs3RE9ZX0E%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-16T20:48:03.711Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Mk5VMHpSRnBxTkZnNVVtZHNRV2d6YW1nNWRFRRAB",
+      "restaurant": "Flave by Chef Wali",
+      "area": "Eastern Mangroves, Al Kheeran",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner rates food zero, says chicken, fries and sauces tasteless",
+      "topic": "food",
+      "text": "الخدمة و الجو حلو لكن الاكل صفررررررررر لاطعم دجاج ولا بطاطس ولا صوصات كلش ماعجبني\nتقييمي له 0/10 للاسف\nللمعلومية/ اللحم استرالي و الدجاج اماراتي المراعي",
+      "author": "Fatimah Alsalman",
+      "postedAt": "2026-11-16T12:35:26.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5Mk5VMHpSRnBxTkZnNVVtZHNRV2d6YW1nNWRFRRAB!2m1!1s0x0:0x76e7d678aa586c2e!3m1!1s2@1:CAIQACodChtycF9oOk92NU0zRFpqNFg5UmdsQWgzamg5dEE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-16T20:48:03.711Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWelJXRllVRUZOV205elJGWnhaRWxoYkhJMlRuYxAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner calls Rowley's overrated, says steak and sauces disappointed",
+      "topic": "food",
+      "text": "First time trying Rowley's in Abu Dhabi, and my final verdict? Overrated. Period.😅\n\nI've tried quite a few steakhouses around the UAE, and personally, I feel there are plenty of better options. Even Entrecôte at Yas Mall, for example, is far superior in terms of taste. Sorry, but the flavours at Rowley's just didn't work for me.\n\nWe tried the different sauces, and honestly, none really stood out. The Best Sauce reminded me of ketchup mixed with chilli. The Secret Sauce was nice, but nothing that made me say wow. As for the Special Sauce, it tasted like another version of peppercorn sauce.\n\nSteak-wise, I actually preferred the Signature Ribeye over the Wagyu. It was the better choice for me.\n\nOn the positive side, the ambience was marvellous, and the service was excellent. A special mention to Miss Thandar, who was absolutely superb. She really made us feel welcome and deserves recognition for her hospitality.\n\nOverall, a beautiful restaurant with fantastic service, but unfortunately, the food didn't live up to the hype for me. Perhaps my expectations were too high after hearing so much about Rowley's.\n\nWould I come back? Probably not for the steak. There are simply too many other steakhouses in the UAE that I personally enjoy more.",
+      "author": "AZ BEAN",
+      "postedAt": "2026-11-16T12:24:42.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWelJXRllVRUZOV205elJGWnhaRWxoYkhJMlRuYxAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOkVzRWFYUEFNWm9zRFZxZElhbHI2Tnc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-16T20:48:03.711Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUFRsSnRVbTk1WWtsRVNtZGpiSFZSY2pNdFpsRRAB",
       "restaurant": "EVA",
       "area": "Mamsha Al Saadiyat",
@@ -421,5 +463,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-16T10:49:18.356Z"
+  "updatedAt": "2026-11-16T20:48:03.711Z"
 }
