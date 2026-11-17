@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFExZzRNekZYVjBobmEyaG9YemRPTkZSZlRIYxAB",
+      "restaurant": "Akawa",
+      "area": "Bab Al Nojoum, Hudayriyat Island",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Diner says poor reception and rude staff ruined Akawa visit",
+      "topic": "service",
+      "text": "المكان رائع والطعام لذيذ والجو زاد المكان جمال لكن الاستقبال سيء والخدمة دون المستوى ماعندهم أسلوب لبق للتحدث مع الزائرين ADANA وفريقها جعلو التجربة سيئة للأسف..",
+      "author": "Asma",
+      "postedAt": "2026-11-17T18:27:56.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWeFExZzRNekZYVjBobmEyaG9YemRPTkZSZlRIYxAB!2m1!1s0x0:0xf0aa136f14592a0!3m1!1s2@1:CAIQACodChtycF9oOkVxQ1g4MzFXV0hna2hoXzdONFRfTHc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-17T21:12:10.406Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2xRemRYTXhXbE53Ym5SdldITkxiRFZMTUZscmVHYxAB",
       "restaurant": "'Za 'Za",
       "area": "Al Qana",
@@ -491,5 +505,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-17T12:16:55.894Z"
+  "updatedAt": "2026-11-17T21:12:10.406Z"
 }
