@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xRemRYTXhXbE53Ym5SdldITkxiRFZMTUZscmVHYxAB",
+      "restaurant": "'Za 'Za",
+      "area": "Al Qana",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "American diner calls two pizza flavors overhyped and not good",
+      "topic": "food",
+      "text": "We tried 2 pizza flavors and its honestly overhyoed and not that good. Im saying this as an american whi tried several pizzas.",
+      "author": "Rick I. (Shark)",
+      "postedAt": "2026-11-17T09:47:38.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRemRYTXhXbE53Ym5SdldITkxiRFZMTUZscmVHYxAB!2m1!1s0x0:0x8eb3fe20bcb946ac!3m1!1s2@1:CAIQACodChtycF9oOlQzdXMxWlNwbnRvWHNLbDVLMFlreGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-17T12:16:55.894Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdllYTnhOemh3TkVaNWQxZFBNRWh1WTE5NmQxRRAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner told two-hour wait at 7pm despite empty tables",
+      "topic": "wait",
+      "text": "the waiting list is tooooo long and all of the tables were empty! i came at 7pm and they told me 2 hours",
+      "author": "gigi",
+      "postedAt": "2026-11-17T09:42:42.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxdllYTnhOemh3TkVaNWQxZFBNRWh1WTE5NmQxRRAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOi1vYXNxNzhwNEZ5d1dPMEhuY196d1E%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-17T12:16:55.894Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25SYWFGVktlR1ZhVVhnME5VeEJOVXMzUkU5WlgwRRAB",
       "restaurant": "Rascal's Deli",
       "area": "Al Qana",
@@ -463,5 +491,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-17T03:23:43.571Z"
+  "updatedAt": "2026-11-17T12:16:55.894Z"
 }
