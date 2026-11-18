@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2poSFZWRlFVMFpJVlY5U1QwNDVPRWszV0VwR01XYxAB",
+      "restaurant": "88 Seoul",
+      "area": "Andalus Al Seef Resort, Al Muntazah",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner finds 88 Seoul closed, calls trip a waste of time",
+      "topic": "other",
+      "text": "This place is closed.waste of time",
+      "author": "Eric Dravven",
+      "postedAt": "2026-11-18T09:42:24.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poSFZWRlFVMFpJVlY5U1QwNDVPRWszV0VwR01XYxAB!2m1!1s0x0:0xec02432993f071b8!3m1!1s2@1:CAIQACodChtycF9oOjhHVVFQU0ZIVV9ST045OEk3WEpGMWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-18T12:02:43.813Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFExZzRNekZYVjBobmEyaG9YemRPTkZSZlRIYxAB",
       "restaurant": "Akawa",
       "area": "Bab Al Nojoum, Hudayriyat Island",
@@ -505,5 +519,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-18T03:02:08.656Z"
+  "updatedAt": "2026-11-18T12:02:43.813Z"
 }
