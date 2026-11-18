@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tablpEZE9aMW8xWkZkQ1ZUUnlRMVJPVjJwRmJIYxAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says table given away after hour-long wait at Rowley's",
+      "topic": "wait",
+      "text": "Very disappointing experience and extremely poor customer service.\n\nWhen I arrived, I was informed that the waiting time would be approximately 30–35 minutes. After waiting for that period, I followed up with the employee, only to be told that I needed to wait another 30 minutes.\n\nAfter waiting for a full hour, I approached the staff again, and to my surprise, they simply apologized and told me that someone else had taken my place!\n\nWhat makes this situation even more unacceptable is that nobody called me, contacted me, or informed me that my turn had come. Apparently, the staff simply called out a name, and someone else took my place, despite the fact that I had been sitting right next to the employee the entire time and had never left the waiting area.\n\nFurthermore, I was receiving WhatsApp updates showing my waiting time, so there was a clear system in place to track the queue. How could my place be given to someone else without any proper notification or communication?\n\nThis clearly reflects a serious lack of organization, professionalism, communication, and respect for customers’ time.\n\nIt is completely unacceptable to keep a customer waiting for an entire hour, fail to notify them when their turn comes, and then casually apologize because someone else has taken their place.\n\nI am requesting that management personally investigate this incident, review the queue records and WhatsApp notification history, and explain how my place was given to someone else without properly contacting me. I also expect management to take corrective action, ensure staff follow a clear and fair queue management process, and implement a proper notification and confirmation system so that this does not happen to other customers.\n\nI would appreciate a direct response from management explaining what went wrong and what specific steps will be taken to prevent this from happening again. A simple apology is not enough when customers’ time is wasted due to poor organization.\n\nA very frustrating and disappointing experience. Completely unacceptable!",
+      "author": "Ali AlShemeili",
+      "postedAt": "2026-11-18T18:57:02.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tablpEZE9aMW8xWkZkQ1ZUUnlRMVJPVjJwRmJIYxAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOkZnZDdOZ1o1ZFdCVTRyQ1ROV2pFbHc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-18T20:48:11.886Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2poSFZWRlFVMFpJVlY5U1QwNDVPRWszV0VwR01XYxAB",
       "restaurant": "88 Seoul",
       "area": "Andalus Al Seef Resort, Al Muntazah",
@@ -519,5 +533,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-18T12:02:43.813Z"
+  "updatedAt": "2026-11-18T20:48:11.886Z"
 }
