@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRFFXOHhhMGt4TldoTFVFVjNTMVJSUm1sNWJHYxAB",
+      "restaurant": "Pitfire",
+      "area": "Waterfront Tower, Al Zahiyah",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says rude waitress refused pizza topping changes without asking",
+      "topic": "service",
+      "text": "Pathetic experience with the waitress. They were outrightly rude and claimed that manager has decided to not accommodate any changes with regards to toppings. Waitress didn’t even ask the chef or manager and we were sure because they do chnages to toppings as per request. It was our favourite place for pizza but recent experience has dampened the mood. They should read this and improve their service.",
+      "author": "Shubham Bhawsar",
+      "postedAt": "2026-11-19T15:37:25.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKRFFXOHhhMGt4TldoTFVFVjNTMVJSUm1sNWJHYxAB!2m1!1s0x0:0x2633af488eda6bc7!3m1!1s2@1:CAIQACodChtycF9oOkJDQW8xa0kxNWhLUEV3S1RRRml5bGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-19T19:21:05.494Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25aT2FURllZbXBLYzBSVk0wUTBZMFJ2YkhsTFRGRRAB",
+      "restaurant": "Pitfire",
+      "area": "Waterfront Tower, Al Zahiyah",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says rude waitress refused pizza topping changes without asking",
+      "topic": "service",
+      "text": "Pathetic experience with the waitress. They were outrightly rude and claimed that manager has decided to not accommodate any changes with regards to toppings. Waitress didn’t even ask the chef or manager and we were sure because they do chnages to toppings as per request. It was our favourite place for pizza but recent experience has dampened the mood. They should read this and improve their service.",
+      "author": "yogita yadav",
+      "postedAt": "2026-11-19T15:35:33.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aT2FURllZbXBLYzBSVk0wUTBZMFJ2YkhsTFRGRRAB!2m1!1s0x0:0x2633af488eda6bc7!3m1!1s2@1:CAIQACodChtycF9oOnZOaTFYYmpKc0RVM0Q0Y0RvbHlLTFE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-19T19:21:05.494Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2tablpEZE9aMW8xWkZkQ1ZUUnlRMVJPVjJwRmJIYxAB",
       "restaurant": "Rowley's",
       "area": "Yas Bay Waterfront, Yas Island",
@@ -533,5 +561,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-19T10:36:49.437Z"
+  "updatedAt": "2026-11-19T19:21:05.494Z"
 }
