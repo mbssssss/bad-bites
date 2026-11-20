@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTFpGTjFiREZoVDBNM2VsODNMV000Umw4Mk9XYxAB",
+      "restaurant": "Lucky2000",
+      "area": "Souq Al Mina, MiZa",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner calls food very ordinary and overrated",
+      "topic": "food",
+      "text": "طعمه واااااايد عادي overrated",
+      "author": "R M",
+      "postedAt": "2026-11-20T17:27:06.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOTFpGTjFiREZoVDBNM2VsODNMV000Umw4Mk9XYxAB!2m1!1s0x0:0xa94a5f9740832c66!3m1!1s2@1:CAIQACodChtycF9oOkNLZFN1bDFhT0M3el83LWM4Rl82OWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-20T17:32:03.798Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25WRVVsRlRVRk13UW10clNYTTRZa05XZG1WV2JtYxAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "First-time visitor finds steak out of stock with no prior notice",
+      "topic": "service",
+      "text": "I’m extremely disappointed with my experience today. I drove all the way to your restaurant and struggled to find parking, only to be informed upon arrival that the steak was out of stock.\n\nThere was absolutely no announcement on Instagram, no prior communication to customers, and not even a contact number to check availability before visiting. I find this extremely unprofessional and inconsiderate of customers’ time and effort.\n\nThis was supposed to be my first time trying your restaurant, but after such a disappointing experience and poor customer service, I wouldn’t even consider visiting again.",
+      "author": "Aysha Alraeesi",
+      "postedAt": "2026-11-20T10:27:51.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WRVVsRlRVRk13UW10clNYTTRZa05XZG1WV2JtYxAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOnVEUlFTUFMwQmtrSXM4YkNWdmVWbmc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-20T17:32:03.798Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xRGFWWTBSR2RzWTNWTWJHVjFhazFSWHpsUWFHYxAB",
+      "restaurant": "Baba Roma",
+      "area": "Ansam, Saadiyat Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Customer says bakery's bread repeatedly dry or undercooked",
+      "topic": "food",
+      "text": "Stay away from this place if you don't want to get ripped off!\n\nVisited several times, each time bread was either dry or undercooked. I tried the baguette and pita bread, both were terrible. Very mediocre quality which testifies to the managers' carelessness and/or incompetence in the kitchen. Selection is also very limited, seems to be more of a cake and soft drink store than a proper bakery, as opposed to what the name misleadingly suggests.\n\nI am still amazed to see so many people visiting given such mediocrity. I suspect that the reviews, just like many establishments in Abu Dhabi and elsewhere, are highly inflated using bots/AI, and this tricks people into accepting low standards. Many reviews are overly positive, overly detailed and feature em dashes and other AI-artifacts, so take the 4.7 stars with a grain of salt.\n\nIn conclusion if you were expecting an average european neighbourhood bakery you will be thoroughly disappointed. Hopefull they replace the kitchen staff and finally figure out how to make some decent bread.",
+      "author": "Vladimir",
+      "postedAt": "2026-11-20T10:17:21.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xRGFWWTBSR2RzWTNWTWJHVjFhazFSWHpsUWFHYxAB!2m1!1s0x0:0x6fee973e2d93accb!3m1!1s2@1:CAIQACodChtycF9oOm1DaVY0RGdsY3VMbGV1ak1RXzlQaGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-20T17:32:03.798Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRFFXOHhhMGt4TldoTFVFVjNTMVJSUm1sNWJHYxAB",
       "restaurant": "Pitfire",
       "area": "Waterfront Tower, Al Zahiyah",
@@ -561,5 +603,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-20T08:52:13.822Z"
+  "updatedAt": "2026-11-20T17:32:03.798Z"
 }
