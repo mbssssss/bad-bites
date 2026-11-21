@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaFpVd3phMTlxT1U1WFVuUnhkMlY1UlRSVVNVRRAB",
+      "restaurant": "Solenn",
+      "area": "The Arcades, Al Mushrif",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Diner ignored for 15 minutes, refused outdoor table, order forgotten",
+      "topic": "service",
+      "text": "I called ahead and was told Solenn doesn't take reservations, so I arrived around 10:45am and asked for a table for three. A server wouldn't seat us at an empty outdoor table, so we sat inside and waited about 15 minutes with no one coming to take our order.\n\nOulaid came over just as we were about to leave, was friendly, and convinced us to stay. Our food arrived fairly quickly, and the pancake is worth trying, but one of my orders was forgotten.\n\nThe positives are the friendly recovery, the quick food, and the pancake. The negatives are the uncooperative seating, the long wait without service, and the missed order. It may be worth trying a weekday visit, though I can't tell from this one visit whether that would help.\n\nOverall, the friendly save was good, but the service lapses were serious enough that I'd only recommend it if you're prepared to wait.",
+      "author": "TRD",
+      "postedAt": "2026-11-21T08:26:35.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWaFpVd3phMTlxT1U1WFVuUnhkMlY1UlRSVVNVRRAB!2m1!1s0x0:0x22303de00de1bcd3!3m1!1s2@1:CAIQACodChtycF9oOjVhZUwza19qOU5XUnRxd2V5RTRUSUE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-21T14:12:03.322Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTFpGTjFiREZoVDBNM2VsODNMV000Umw4Mk9XYxAB",
       "restaurant": "Lucky2000",
       "area": "Souq Al Mina, MiZa",
@@ -603,5 +617,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-21T05:37:24.344Z"
+  "updatedAt": "2026-11-21T14:12:03.322Z"
 }
