@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25GNVNrdDBXVFI1WVZKUlowVktTM00yVTB0cVlWRRAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "One-star review at Rowley's, though text praises staff service",
+      "topic": "service",
+      "text": "I’ve had a great experience at this restaurant! Sithai and Bo Bo were very kind, friendly, and helpful. Their service was excellent, and they made my visit even better. Thank you both for the lovely service!",
+      "author": "Qsayed Jasem",
+      "postedAt": "2026-11-21T19:08:52.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GNVNrdDBXVFI1WVZKUlowVktTM00yVTB0cVlWRRAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOnF5Skt0WTR5YVJRZ0VKS3M2U0tqYVE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-21T20:37:26.408Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2taYU1IYzFlbTFUTFhwMVpsaDZVVzlEUVRsbGFVRRAB",
+      "restaurant": "Solenn",
+      "area": "The Arcades, Al Mushrif",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner calls Solenn food disappointing, poor taste and quality",
+      "topic": "food",
+      "text": "Unfortunately, the food was very disappointing. The taste was not good at all, and the quality was below expectations. I really hope they improve their food.",
+      "author": "hamda almansoori",
+      "postedAt": "2026-11-21T18:31:04.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taYU1IYzFlbTFUTFhwMVpsaDZVVzlEUVRsbGFVRRAB!2m1!1s0x0:0x22303de00de1bcd3!3m1!1s2@1:CAIQACodChtycF9oOkZaMHc1em1TLXp1Zlh6UW9DQTllaUE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-21T20:37:26.408Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaFpVd3phMTlxT1U1WFVuUnhkMlY1UlRSVVNVRRAB",
       "restaurant": "Solenn",
       "area": "The Arcades, Al Mushrif",
@@ -617,5 +645,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-21T14:12:03.322Z"
+  "updatedAt": "2026-11-21T20:37:26.408Z"
 }
