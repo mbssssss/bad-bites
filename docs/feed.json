@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT204eWFYUm5hM0JpV0VNdFIyUktYM3B3VkZWVlNXYxAB",
+      "restaurant": "Rascal's Deli",
+      "area": "Al Qana",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "One-star review at Rascal's Deli praises cashier's service",
+      "topic": "service",
+      "text": "I had a wonderful experience at the restaurant. The service was excellent, and Kimberly, the cashier, was particularly friendly, polite, and professional. She welcomed me with a warm smile and handled everything efficiently. Her positive attitude and customer service made my visit even more enjoyable.\n\nThank you, Kimberly, for your outstanding service. Highly appreciated!",
+      "author": "fazli rabbi",
+      "postedAt": "2026-11-22T12:13:05.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT204eWFYUm5hM0JpV0VNdFIyUktYM3B3VkZWVlNXYxAB!2m1!1s0x0:0x3b26e66b623f90f9!3m1!1s2@1:CAIQACodChtycF9oOm8yaXRna3BiWEMtR2RKX3pwVFVVSWc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-22T15:54:57.292Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25NMVVYZFpiSFJVVUdWVU1rUlVNWEZOZFRkWFFtYxAB",
       "restaurant": "Baba Roma",
       "area": "Ansam, Saadiyat Island",
@@ -715,5 +729,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-22T07:50:29.929Z"
+  "updatedAt": "2026-11-22T15:54:57.292Z"
 }
