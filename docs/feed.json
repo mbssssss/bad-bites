@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25NMVVYZFpiSFJVVUdWVU1rUlVNWEZOZFRkWFFtYxAB",
+      "restaurant": "Baba Roma",
+      "area": "Ansam, Saadiyat Island",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Reviewer says busy restaurant is badly understaffed",
+      "topic": "service",
+      "text": "Unfortunately the place is way under staffed although it is always busy, I wish the owner spend more money on staffing than branding",
+      "author": "Hussain Alhamo",
+      "postedAt": "2026-11-22T07:21:08.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25NMVVYZFpiSFJVVUdWVU1rUlVNWEZOZFRkWFFtYxAB!2m1!1s0x0:0x6fee973e2d93accb!3m1!1s2@1:CAIQACodChtycF9oOnM1UXdZbHRUUGVUMkRUMXFNdTdXQmc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-22T07:50:29.929Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25CT1FrUnpaa28yTFRJeFZHeDZTVjlXTlRSb09YYxAB",
+      "restaurant": "Isabel Mayfair",
+      "area": "The Galleria, Al Maryah Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Tea arrives an hour late at €3,500 afternoon tea, diner says",
+      "topic": "service",
+      "text": "The Worst Afternoon Tea I’ve Ever Had\n\nAs Londoners visiting Abu Dhabi, we wanted to treat our guests to a proper afternoon tea. I was delighted to discover that Isabel Mayfair had opened a sister venue here and was offering its own afternoon-tea experience. Unfortunately, what followed was nothing short of disastrous.\n\nWhen we arrived, nothing was prepared except the table. No tea, no afternoon tea selection, no proper service.\n\nWe agreed to a single glass of champagne for a toast, explaining that we were heading to an exclusive art opening and wanted to stay sober enough to appreciate the art. Instead, the staff kept opening bottles and refilling our glasses after practically every sip. I eventually had to ask them explicitly to stop.\n\nMeanwhile, strange little morsels of food appeared one by one, with no apparent order or sense of occasion. I asked for tea four or five times. It finally arrived an hour into our afternoon tea, just as we had to leave.\n\nThe bill? €3,500. For an afternoon tea at which the tea itself was practically an afterthought.\n\nI’ve experienced some disappointing afternoon teas, but the only one I can imagine being worse was the Boston Tea Party.",
+      "author": "George Bronskiy",
+      "postedAt": "2026-11-22T04:47:03.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CT1FrUnpaa28yTFRJeFZHeDZTVjlXTlRSb09YYxAB!2m1!1s0x0:0xbdd54c493df75c7d!3m1!1s2@1:CAIQACodChtycF9oOnBOQkRzZko2LTIxVGx6SV9WNTRoOXc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-22T07:50:29.929Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaE0ycFRiRE5vTkZKaFVraGlMVVF6YzJkd1JWRRAB",
+      "restaurant": "L'ETO",
+      "area": "The Galleria, Al Maryah Island",
+      "city": "Abu Dhabi",
+      "rating": 3,
+      "headline": "Diner calls AED 300-per-head meal overpriced, food underwhelming",
+      "topic": "price",
+      "text": "Used to be a cafe, but is now called a Restaurant and def overpriced for what’s on the table. Food wasn’t that great except for the sea bass. There’s no view of the water due to construction. AED 300 per head without alcohol is not worth it !",
+      "author": "M J",
+      "postedAt": "2026-11-22T02:05:24.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCaE0ycFRiRE5vTkZKaFVraGlMVVF6YzJkd1JWRRAB!2m1!1s0x0:0x93f0793ade41ae45!3m1!1s2@1:CAIQACodChtycF9oOlBhM2pTbDNoNFJhUkhiLUQzc2dwRVE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-22T07:50:29.929Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2pOU2RtaENUV1pNTFVWSGRqRXdjMVkyVm00eUxVRRAB",
       "restaurant": "Akawa",
       "area": "Bab Al Nojoum, Hudayriyat Island",
@@ -673,5 +715,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-22T00:56:42.043Z"
+  "updatedAt": "2026-11-22T07:50:29.929Z"
 }
