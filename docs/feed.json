@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pOU2RtaENUV1pNTFVWSGRqRXdjMVkyVm00eUxVRRAB",
+      "restaurant": "Akawa",
+      "area": "Bab Al Nojoum, Hudayriyat Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says order-taking staff lacked courtesy and professionalism",
+      "topic": "service",
+      "text": "Unfortunately, my experience at this restaurant was below expectations, particularly when it came to customer service. The overall service was disappointing, and the staff member who took my order did not demonstrate the level of professionalism, courtesy, or hospitality that customers would normally expect.\n\nI believe good customer service is just as important as the quality of the food, and unfortunately, this experience left a negative impression. I hope the management takes this feedback constructively and works on improving the customer experience\n\nللأسف، كانت تجربتي في هذا المطعم أقل من التوقعات، خصوصاً من ناحية خدمة العملاء. مستوى الخدمة لم يكن مرضياً، كما أن أسلوب الموظف المسؤول عن أخذ الطلب لم يكن بالمستوى المتوقع من حيث اللباقة والاحترافية وحسن التعامل مع الزبائن.\n\nأرى أن جودة الخدمة لا تقل أهمية عن جودة الطعام، وللأسف تركت هذه التجربة انطباعاً سلبياً لدي. أتمنى من الإدارة أخذ هذه الملاحظة بعين الاعتبار والعمل على تحسين مستوى الخدمة والتجربة",
+      "author": "عبدالله البلوشي",
+      "postedAt": "2026-11-21T21:24:32.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOU2RtaENUV1pNTFVWSGRqRXdjMVkyVm00eUxVRRAB!2m1!1s0x0:0xf0aa136f14592a0!3m1!1s2@1:CAIQACodChtycF9oOjNSdmhCTWZMLUVHdjEwc1Y2Vm4yLUE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-22T00:56:42.043Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pGS1EyRk1WMFJDVHkxVWFIbDZZMmM1ZFRWVmJrRRAB",
+      "restaurant": "Solenn",
+      "area": "The Arcades, Al Mushrif",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner praises service but calls cauliflower, calamari and chicken disappointing",
+      "topic": "food",
+      "text": "1. Service: Very friendly, professional, and understanding staff. Excellent hospitality.\n\n2. Decor: Beautiful design with perfectly coordinated colours, matching the location.\n\n3. Food: Very disappointing, especially the fried cauliflower with hummus, spicy potatoes, and calamari. The Shish Tawook and Baby Chicken were below average.\n\nOverall, great service and decor, but unfortunately the food did not meet expectations.",
+      "author": "K.H.A Al Hammadi",
+      "postedAt": "2026-11-21T20:58:31.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGS1EyRk1WMFJDVHkxVWFIbDZZMmM1ZFRWVmJrRRAB!2m1!1s0x0:0x22303de00de1bcd3!3m1!1s2@1:CAIQACodChtycF9oOjFKQ2FMV0RCTy1UaHl6Y2c5dTVVbkE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-22T00:56:42.043Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25GNVNrdDBXVFI1WVZKUlowVktTM00yVTB0cVlWRRAB",
       "restaurant": "Rowley's",
       "area": "Yas Bay Waterfront, Yas Island",
@@ -645,5 +673,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-21T20:37:26.408Z"
+  "updatedAt": "2026-11-22T00:56:42.043Z"
 }
