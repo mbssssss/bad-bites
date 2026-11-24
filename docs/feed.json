@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25WSlEzUk1kbk4wTVZNMVJreHZYMWRRUm5Cd1JIYxAB",
+      "restaurant": "Rascal's Deli",
+      "area": "Al Qana",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner says Al Qana food smelly, fries taste of chicken oil",
+      "topic": "food",
+      "text": "I’m a fan of RASCALS DUBAI, but the food in al qana is very smelly and doesnt meets my expectations. The curly fries is fried with cooking oil with chicken taste. The philly beef is smelly too",
+      "author": "Mohammed Al Nuaimi",
+      "postedAt": "2026-11-24T17:24:53.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WSlEzUk1kbk4wTVZNMVJreHZYMWRRUm5Cd1JIYxAB!2m1!1s0x0:0x3b26e66b623f90f9!3m1!1s2@1:CAIQACodChtycF9oOnVJQ3RMdnN0MVM1RkxvX1dQRnBwRHc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-24T18:37:56.427Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT204eWFYUm5hM0JpV0VNdFIyUktYM3B3VkZWVlNXYxAB",
       "restaurant": "Rascal's Deli",
       "area": "Al Qana",
@@ -729,5 +743,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-24T06:44:40.986Z"
+  "updatedAt": "2026-11-24T18:37:56.427Z"
 }
