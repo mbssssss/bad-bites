@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNFpHcERhRXBRTmpKaGFVbFZOVXhwTkU1emJrRRAB",
+      "restaurant": "Berenjak",
+      "area": "The House, Al Bateen",
+      "city": "Abu Dhabi",
+      "rating": 2,
+      "headline": "Diner calls Berenjak extremely overpriced for ordinary food",
+      "topic": "price",
+      "text": "Extremely overpriced for such ordinary food. Definitely not worth the money.",
+      "author": "Dr. Rashed Alketbi",
+      "postedAt": "2026-11-25T09:30:49.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pBNFpHcERhRXBRTmpKaGFVbFZOVXhwTkU1emJrRRAB!2m1!1s0x0:0x81cd9a34f4a6ade4!3m1!1s2@1:CAIQACodChtycF9oOjA4ZGpDaEpQNjJhaUlVNUxpNE5zbkE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-25T12:08:48.945Z"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2premNVTlpRblJQU1dkM1pEa3hiMGh3Y0hSNFVYYxAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "One-star rating for Rowley's despite text praising it as very good",
+      "topic": "other",
+      "text": "It’s very very good ❤️",
+      "author": "SA",
+      "postedAt": "2026-11-25T09:07:10.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2premNVTlpRblJQU1dkM1pEa3hiMGh3Y0hSNFVYYxAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOjkzcUNZQnRPSWd3ZDkxb0hwcHR4UXc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-25T12:08:48.945Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25WSlEzUk1kbk4wTVZNMVJreHZYMWRRUm5Cd1JIYxAB",
       "restaurant": "Rascal's Deli",
       "area": "Al Qana",
@@ -743,5 +771,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-25T02:55:33.425Z"
+  "updatedAt": "2026-11-25T12:08:48.945Z"
 }
