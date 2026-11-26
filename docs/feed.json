@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcFZEWnNibk13WW5vNVNXVlNaamx2UlhKemFVRRAB",
+      "restaurant": "Art of Dum",
+      "area": "Reem Mall, Al Reem Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says biryani was reheated and dine-in quality poor",
+      "topic": "food",
+      "text": "Our recent visit  in Abudhabi  ,  In live Dine not at all good ,Home delivery from Karama very good taste fresh,\n\nEven cook taste by spoon live seen from glass window inside.\n\nBiiryani first bring in plate then Reheat brought in clay pot.How many times heat up same rice, Rice taste changes,\nAll happen on last Sat night DAY 21-Nov-2026\n\nplease check the Quality of food once a while.\n\nGeneraly all not good ,Every body face look Dull from Mgr to all.Even calculation for discounted not done proper way",
+      "author": "prabha sudha",
+      "postedAt": "2026-11-26T17:45:35.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkcFZEWnNibk13WW5vNVNXVlNaamx2UlhKemFVRRAB!2m1!1s0x0:0x2a2770fe3ef7d91d!3m1!1s2@1:CAIQACodChtycF9oOjdpVDZsbnMwYno5SWVSZjlvRXJzaUE%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-26T22:48:09.137Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNFpHcERhRXBRTmpKaGFVbFZOVXhwTkU1emJrRRAB",
       "restaurant": "Berenjak",
       "area": "The House, Al Bateen",
@@ -771,5 +785,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-26T13:38:28.366Z"
+  "updatedAt": "2026-11-26T22:48:09.137Z"
 }
