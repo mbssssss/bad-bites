@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2psWVNXUjNPVGxmU2pCM2VVRkdNMmgzTWkxM1ZHYxAB",
+      "restaurant": "Rowley's",
+      "area": "Yas Bay Waterfront, Yas Island",
+      "city": "Abu Dhabi",
+      "rating": 1,
+      "headline": "Diner says medium steak served rare, fatty and gristly",
+      "topic": "food",
+      "text": "Food was absolutely shocking. Pointless starter, lettuce and Caesar dressing. Steak was like eating lumps or fat and gristle. Asked for medium and was served is completely rare. You’re like a conveyer belt, food is served so quickly, you don’t have time to digest the starters. All they want to do is get one customer in quick and then get them out quick for next customer.\nA couple was seated alongside us and chain smoking cigars which was really off putting. There should be a separate seating area for smokers. Would not recommend to anyone and certainly will not be returning.",
+      "author": "Tracy Farmer",
+      "postedAt": "2026-11-27T15:38:36.000Z",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psWVNXUjNPVGxmU2pCM2VVRkdNMmgzTWkxM1ZHYxAB!2m1!1s0x0:0x8307d168fa6fd008!3m1!1s2@1:CAIQACodChtycF9oOjlYSWR3OTlfSjB3eUFGM2h3Mi13VGc%7C%7C?hl=en-GB",
+      "foundAt": "2026-11-27T23:13:06.239Z"
+    },
+    {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRFRXMWxZVlJKY25OSk9YTm1OR0YzWm1wVFoxRRAB",
       "restaurant": "Marcella",
       "area": "Yas Bay",
@@ -799,5 +813,5 @@
       "foundAt": "2026-11-09T09:42:52.704Z"
     }
   ],
-  "updatedAt": "2026-11-27T14:41:35.006Z"
+  "updatedAt": "2026-11-27T23:13:06.239Z"
 }
